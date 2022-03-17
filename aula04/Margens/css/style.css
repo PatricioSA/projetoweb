@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&family=Oxygen&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.titulo {
+    font-size: x-large;
+}
+
+/*Paddings*/
+#espacamento1 {
+    font-family: 'Oxygen' sans-serif;
+    font-size: 30px;
+
+    width: 50%;
+    height: 150px;
+    border: 1px solid #ff0000;
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+
+    /*Margens*/
+    margin-top: 30px;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+#espacamento2 {
+    font-family: 'Inspiration', cursive;
+    font-size: 45px;
+
+    width: 50%;
+    height: 150px;
+    border: 5px solid #2fb344;
+    padding: 25px 30px 25px 30px;
+
+    /*Margens*/
+    margin: 0px auto;
+}

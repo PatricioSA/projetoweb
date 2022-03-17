@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.titulo-principal {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3em;
+    color: #0000cc;
+}
+
+.titulo {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: x-large;
+}
+
+.espacamento1 {
+    font-size: 1.5em;
+    width: 50%;
+    height: 150px;
+    border: 1px solid #ff0000;
+
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+}
+
+.espacamento2 {
+    font-size: 1.5em;
+    width: 50%;
+    height: 150px;
+    border: 1px solid #33cc33;
+
+    padding: 25px 30px 25px 30px;
+}
