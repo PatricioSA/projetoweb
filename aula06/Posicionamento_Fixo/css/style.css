@@ -1,23 +1,20 @@
 body {
-    background-color: #ecd195;
+    background-color: #ecd39b;
 }
 
 #container {
     margin: 0px auto;
     background-color: #ffffff;
     width: 600px;
-    border: 1px solid red;
-    padding: 10px;
 }
 
 p {
     width: 250px;
 }
 
-.absoluto {
+.fixo {
     border: 1px solid red;
-    position: absolute;
-
-    top: 130px;
-    right: 700px;
+    position: fixed;
+    top: 100px;
+    left: 350px;
 }
