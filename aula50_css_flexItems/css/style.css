@@ -1,0 +1,36 @@
+.container {
+    height: 80vh;
+    background-color: rgb(233, 229, 229);
+    /*Flex*/
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.filho1 {
+    width: 230px;
+    height: 100px;
+    background-color: rgb(206, 202, 202);
+    align-self: center;
+    order: 1;
+    flex-grow: 0;
+}
+
+.filho2 {
+    width: 230px;
+    height: 100px;
+    background-color: rgb(218, 166, 166);
+    align-self: center;
+    order: 2;
+    flex-grow: 1;
+}
+
+.filho3 {
+    width: 230px;
+    height: 100px;
+    background-color: rgb(206, 202, 202);
+    align-self: center;
+    order: 3;
+    flex-grow: 0;
+}

@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    margin: 0 auto;
+    width: 700px;
+    background: #b3acac;
+}
+
+header {
+    width: 700px;
+    height: 200px;
+}
